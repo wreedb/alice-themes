@@ -1,0 +1,26 @@
+# -*- mode: conf; -*- vim:ft=dosini
+
+# Instructions:
+# copy & past the contents of this file into
+# ~/.config/dunst/dunstrc
+
+# for more information, see the dunst configuration
+# manual page: `man 5 dunst`
+
+[global]
+frame_color = "#80B0E0"
+separator_color= frame
+highlight = "#80B0E0"
+
+[urgency_low]
+background = "#494C59"
+foreground = "#1A1D27"
+
+[urgency_normal]
+background = "#1A1D27"
+foreground = "#D7D7D7"
+
+[urgency_critical]
+background = "#14161E"
+foreground = "#EBEBEB"
+frame_color = "#FB7DA7"

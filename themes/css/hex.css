@@ -1,0 +1,34 @@
+/* -*- mode: css-ts; -*-
+   vim:ft=css
+*/
+
+/* Instructions:
+   add something equivalent to the following to your stylesheet:
+   @import url("/path/to/this/file");
+   The path can be absolute or relative.   
+*/
+
+:root {
+
+    --black: #1A1D27;
+    --red: #FB7DA7;
+    --green: #76C5A4;
+    --yellow: #FDAD5D;
+    --blue: #80B0E0;
+    --magenta: #AF98E6;
+    --cyan: #51C7DA;
+    --white: #D7D7D7;
+    
+    --bright-black: #1A1D27;
+    --bright-red: #FB7DA7;
+    --bright-green: #76C5A4;
+    --bright-yellow: #FDAD5D;
+    --bright-blue: #80B0E0;
+    --bright-magenta: #AF98E6;
+    --bright-cyan: #51C7DA;
+    --bright-white: #D7D7D7;
+
+    --foreground: #EBEBEB;
+    --background: #14161E;
+
+}

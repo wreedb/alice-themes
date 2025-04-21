@@ -1,0 +1,30 @@
+// -*- mode: scss; -*- vim:ft=scss
+
+// Instructions:
+// to use these colors in your scss stylesheet:
+// * assuming this file is placed alongside your stylesheet *
+// * and named either alice.scss or _alice.scss             *
+// @use "alice" as *;
+// if this file is placed elsewhere
+// adjust the path accordingly
+
+$black: rgb(26, 29, 39);
+$red: rgb(251, 125, 167);
+$green: rgb(118, 197, 164);
+$yellow: rgb(253, 173, 93);
+$blue: rgb(128, 176, 224);
+$magenta: rgb(175, 152, 230);
+$cyan: rgb(81, 199, 218);
+$white: rgb(235, 235, 235);
+
+$bright-black: rgb(73, 76, 89);
+$bright-red: rgb(251, 131, 171);
+$bright-green: rgb(125, 200, 169);
+$bright-yellow: rgb(227, 207, 103);
+$bright-blue: rgb(134, 180, 226);
+$bright-magenta: rgb(179, 157, 231);
+$bright-cyan: rgb(90, 202, 220);
+$bright-white: rgb(236, 236, 236);
+
+$foreground: rgb(235, 235, 235);
+$background: rgb(20, 22, 30);

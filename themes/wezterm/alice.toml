@@ -1,0 +1,53 @@
+# -*- mode: toml-ts; -*- vim:ft=toml
+
+# Instructions:
+
+# place this file into your ~/.config/wezterm directory
+# under a subdirectory named 'colors', then add the
+# following to your ~/.config/wezterm/wezterm.lua file:
+
+# local wezterm = require "wezterm"
+# local config = wezterm.config_builder()
+# config.color_scheme = "alice"
+# ...
+# the rest of your configurations
+# ...
+# return config
+#
+# for more information about color scheme configuration in wezterm,
+# see: https://wezterm.org/config/appearance.html#defining-a-color-scheme-in-a-separate-file
+
+[metadata]
+name    = "alice"
+author  = "https://github.com/wreedb"
+aliases = []
+
+[colors]
+foreground    = "#EBEBEB"
+background    = "#14161E"
+cursor_bg     = "#80B0E0"
+cursor_fg     = "#1A1D27"
+selection_bg  = "#494C59"
+selection_fg  = "#D7D7D7"
+
+ansi = [
+    "#1A1D27",
+    "#FB7DA7",
+    "#76C5A4",
+    "#FDAD5D",
+    "#80B0E0",
+    "#AF98E6",
+    "#51C7DA",
+    "#D7D7D7"
+]
+
+brights = [
+    "#494C59",
+    "#FB83AB",
+    "#7DC8A9",
+    "#E3CF67",
+    "#86B4E2",
+    "#B39DE7",
+    "#5ACADC",
+    "#ECECEC"
+]
