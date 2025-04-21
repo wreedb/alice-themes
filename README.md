@@ -16,7 +16,7 @@ multiple different useful formats from a command-line interface.
 
 ## License and Contributing
 This repository is licensed under the GNU General Public License Version 3,  
-see the [license](/LICENSE) file for more information, or see [this article](https://www.gnu.org/licenses/quick-guide-gplv3)  for a  
+see the [license](/LICENSE.md) file for more information, or see [this article](https://www.gnu.org/licenses/quick-guide-gplv3)  for a  
 quick guide. Any contributions from third parties will be licensed under  
 (and accept/comply with) the terms _GPLv3_ as well.
 
